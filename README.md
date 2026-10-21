@@ -7,8 +7,6 @@ My own open-source tools are listed separately on my [GitHub profile](https://gi
 
 ## Contributions
 
-## Contributions
-
 <!-- Add new rows directly under the |------| line (newest first). Copy this line:
 | `fix` | [Project](https://github.com/owner/repo) | Ruby / Rails | [PR title](https://github.com/owner/repo/pull/123) | ✅ Merged | 2026-11 | [Write-up](contributions/2026-11-project-short-slug.md) |
 -->

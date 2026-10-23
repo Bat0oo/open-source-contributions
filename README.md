@@ -15,7 +15,7 @@ My own open-source tools are listed separately on my [GitHub profile](https://gi
 |------|---------|-------|--------------|--------|------|---------|
 | `fix` | [annotaterb](https://github.com/drwl/annotaterb) | Ruby / Rails | [Fix annotating apps that use activerecord-tenanted](https://github.com/drwl/annotaterb/pull/XXX) | ✅ Merged | 2026-10 | [Write-up](contributions/2026-10-annotaterb-activerecord-tenanted.md) |
 | `fix` | [FeatBit](https://github.com/featbit/featbit) | C# / ASP.NET Core | [Clarify segment scopes requirements in OpenAPI](https://github.com/featbit/featbit/pull/1017) | ✅ Merged | 2026-10 | [Write-up](contributions/2026-10-featbit-segment-scopes-openapi.md) |
-| `fix` | [Ardalis.Result](https://github.com/ardalis/Result) | C# / ASP.NET Core | [Respect ResultStatusMap response object for Ok and Created](https://github.com/ardalis/Result/pull/XXX) | 🟡 Open | 2026-10 | — |
+| `fix` | [Ardalis.Result](https://github.com/ardalis/Result) | C# / ASP.NET Core | [Respect ResultStatusMap response object for Ok and Created](https://github.com/ardalis/Result/pull/262) | 🟡 Open | 2026-10 | — |
 
 ## Legend
 

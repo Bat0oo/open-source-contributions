@@ -13,7 +13,8 @@ My own open-source tools are listed separately on my [GitHub profile](https://gi
 
 | Type | Project | Stack | Pull request | Status | Date | Details |
 |------|---------|-------|--------------|--------|------|---------|
-| `fix` | [annotaterb](https://github.com/drwl/annotaterb) | Ruby / Rails | [Fix annotating apps that use activerecord-tenanted](https://github.com/drwl/annotaterb/pull/XXX) | ✅ Merged | 2026-10 | [Write-up](contributions/2026-10-annotaterb-activerecord-tenanted.md) |
+| `fix` | [Stryker.NET](https://github.com/stryker-mutator/stryker-net) | C# / .NET | [Print report URI after uploading the final dashboard report](https://github.com/stryker-mutator/stryker-net/pull/3939) | ✅ Merged | 2026-11 | [Write-up](contributions/2026-11-stryker-net-dashboard-report-uri.md) |
+| `fix` | [annotaterb](https://github.com/drwl/annotaterb) | Ruby / Rails | [Fix annotating apps that use activerecord-tenanted](https://github.com/drwl/annotaterb/pull/413) | ✅ Merged | 2026-10 | [Write-up](contributions/2026-10-annotaterb-activerecord-tenanted.md) |
 | `docs` | [FeatBit](https://github.com/featbit/featbit) | C# / ASP.NET Core | [Clarify segment scopes requirements in OpenAPI](https://github.com/featbit/featbit/pull/1017) | ✅ Merged | 2026-10 | [Write-up](contributions/2026-10-featbit-segment-scopes-openapi.md) |
 | `fix` | [Ardalis.Result](https://github.com/ardalis/Result) | C# / ASP.NET Core | [Respect ResultStatusMap response object for Ok and Created](https://github.com/ardalis/Result/pull/262) | 🟡 Open | 2026-10 | — |
 | `fix` | [Reloaded-II](https://github.com/Reloaded-Project/Reloaded-II) | C# / .NET | [Fix launcher crash when selecting an already-exited process](https://github.com/Reloaded-Project/Reloaded-II/pull/960) | 🟡 Open | 2026-10 | — |
